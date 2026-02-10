@@ -2,8 +2,6 @@
     <img src="github_banner_giovani_augusto.gif">
 </div>
 
-<h1>Hey 👋, I'm <a href="https://g9augusto.github.io/Portfolio/">Giovai.</a></h1>
-
 I am a software engineering student with an interest in backend development and areas related to Artificial Intelligence. My goal is to specialize in Machine Learning, Deep Learning, and Artificial Neural Networks, building a solid foundation in both theory and practice.Currently, my professional focus is on working as a backend developer, deepening my knowledge primarily in Python, as well as in Java.
 
 ### Languages and Tools:
