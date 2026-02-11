@@ -2,8 +2,7 @@
     <img src="github_banner_giovani_augusto.gif">
 </div>
 
-<h1></h1>
-I am a software engineering student with an interest in backend development and areas related to Artificial Intelligence. My goal is to specialize in Machine Learning, Deep Learning, and Artificial Neural Networks, building a solid foundation in both theory and practice.Currently, my professional focus is on working as a backend developer, deepening my knowledge primarily in Python, as well as in Java.
+<h4>I am a Software Engineering student focusing on backend and Artificial Intelligence. My long-term goal is to specialize in Machine Learning, Deep Learning, and Artificial Neural Networks, developing a strong foundation in both theoretical concepts and practical implementation.</h4>
 
 ### Languages and Tools:
 
