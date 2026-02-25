@@ -14,7 +14,6 @@
   <a href="https://spring.io/projects/spring-boot" target="blank"><img align="left" alt="Spring Boot" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   <a href="https://www.w3schools.com/git/default.asp" target="blank"><img align="left" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <a href="https://github.com/" target="blank"><img align="left" alt="GitHab" height="40" width="40" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png">
-  <a href="https://www.w3schools.com/js/default.asp" target="blank"><img align="left" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <a href="https://www.w3schools.com/html/default.asp" target="blank"><img align="left" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <a href="https://www.w3schools.com/css/default.asp" target="blank"><img align="left" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </h1>
