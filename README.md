@@ -6,4 +6,4 @@
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,mysql,spring,django,fastapi,jenkins,docker,git,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,mysql,jenkins,spring,django,fastapi,docker,git,html,css&theme=dark)](https://skillicons.dev)
